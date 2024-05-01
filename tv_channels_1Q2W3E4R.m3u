@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="imagens/tvbrasil.png" group-title="Canais | Abertos", 1.1 TV Brasil
+http://trenduhd.xyz:80/JOAO82975954/4180734012/282456
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="imagens/cultura.png" group-title="Canais | Abertos", 2.1 Cultura
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188880
+#EXTINF:-1 tvg-id="" tvg-name="Univesp TV" tvg-logo="imagens/univesptv.png" group-title="Canais | Abertos", 2.2 Univesp TV
+(link)
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura e Educação" tvg-logo="imagens/tvculturaeeducacao.png" group-title="Canais | Abertos", 2.3 TV Cultura e Educação
+(link)
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="imagens/sbt.png" group-title="Canais | Abertos", 4.1 SBT SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188727
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="imagens/globo.png" group-title="Canais | Abertos", 5.1 Globo SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188302
+#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="imagens/record.png" group-title="Canais | Abertos", 7.1 Record
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188790
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="imagens/redetv.png" group-title="Canais | Abertos", 9.1 Rede TV
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188871
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="imagens/gazeta.png" group-title="Canais | Abertos", 11.1 TV Gazeta SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188876
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil " tvg-logo="imagens/redebrasil.png" group-title="Canais | Abertos", 12.1 Rede Brasil 
+http://trenduhd.xyz:80/JOAO82975954/4180734012/200362
+#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="imagens/band.png" group-title="Canais | Abertos", 13.1 Band SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188742
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="imagens/foxsports2.png" group-title="Canais | Por Assinatura (Esportes)", Fox Sports 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211823
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="imagens/primevideo.png" group-title="Canais | Por Assinatura (Esportes)", Prime Video 1
+http://trenduhd.xyz:80/JOAO82975954/4180734012/299403
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="imagens/primevideo.png" group-title="Canais | Por Assinatura (Esportes)", Prime Video 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/299402
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="imagens/amc.png" group-title="Canais | Por Assinatura (Filmes)", AMC
+http://topcine.fun:80/1517035942/925234/330
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="imagens/megapix.png" group-title="Canais | Por Assinatura (Filmes)", Megapix
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188534
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="imagens/sony.png" group-title="Canais | Por Assinatura (Filmes)", Sony
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188480
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="imagens/starchannel.png" group-title="Canais | Por Assinatura (Filmes)", Star Channel
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188498
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="imagens/warnerchannel.png" group-title="Canais | Por Assinatura (Filmes)", Warner Channel
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188588
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="imagens/animalplanet.png" group-title="Canais | Por Assinatura (Variedades)", Animal Planet
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188643
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="imagens/canalbrasil.png" group-title="Canais | Por Assinatura (Variedades)", Canal Brasil
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188859
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="imagens/discoverychannel.png" group-title="Canais | Por Assinatura (Variedades)", Discovery Channel
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188649
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="imagens/discoveryhah.png" group-title="Canais | Por Assinatura (Variedades)", Discovery Home and Health 
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188655
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="imagens/discoveryscience.png" group-title="Canais | Por Assinatura (Variedades)", Discovery Science
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188661
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="imagens/discoverytheater.png" group-title="Canais | Por Assinatura (Variedades)", Discovery Theater
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188667
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="imagens/discoveryturbo.png" group-title="Canais | Por Assinatura (Variedades)", Discovery Turbo
+http://trenduhd.xyz:80/JOAO82975954/4180734012/295657
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="imagens/discoveryworld.png" group-title="Canais | Por Assinatura (Variedades)", Discovery World
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188681
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="imagens/futura.png" group-title="Canais | Por Assinatura (Variedades)", Futura
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188865
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="imagens/foodnetwork.png" group-title="Canais | Por Assinatura (Variedades)", Food Network
+http://trenduhd.xyz:80/JOAO82975954/4180734012/189077
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="imagens/tlc.png" group-title="Canais | Por Assinatura (Variedades)", TLC
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188721
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="imagens/oscavaleirosdozodiaco.jpg" group-title="Canais | 24 horas (Animes)", Os Cavaleiros do Zodíaco
+http://trenduhd.xyz:80/JOAO82975954/4180734012/291624
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="imagens/dragonballclassico.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Clássico
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194041
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Saiyajin" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Saiyajin
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194049
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Namekusei" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Namekusei
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194048
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Freeza" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Freeza
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194046
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Androides" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Androides
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194043
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Cell" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Cell
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194045
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Torneio do Cell" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Torneio do Cell
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194051
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Saiyaman" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Saiyaman
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194050
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Super" tvg-logo="imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Super
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="imagens/narutoclassico.jpg" group-title="Canais | 24 horas (Animes)", Naruto Clássico
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194052
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="imagens/narutoshippuden.jpg" group-title="Canais | 24 horas (Animes)", Naruto Shippuden
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194053
+#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="imagens/boruto.jpg" group-title="Canais | 24 horas (Animes)", Boruto: Naruto Next Generations
+(link)
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2000/2010)" tvg-logo="imagens/ossimpsons.jpg" group-title="Canais | 24 horas (Desenhos)", Os Simpsons (2000/2010)
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194144
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2011/2020)" tvg-logo="imagens/ossimpsons.jpg" group-title="Canais | 24 horas (Desenhos)", Os Simpsons (2011/2020)
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194145
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="imagens/futurama.jpg" group-title="Canais | 24 horas (Desenhos)", Futurama
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194244
+
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="imagens/bigbangateoria.jpg" group-title="Canais | 24 horas (Séries)", Big Bang: A Teoria
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194093
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="imagens/chaves.jpg" group-title="Canais | 24 horas (Séries)", Chaves
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194060
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="imagens/chapolin.jpg" group-title="Canais | 24 horas (Séries)", Chapolin Colorado
+http://trenduhd.xyz:80/JOAO82975954/4180734012/296725
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="imagens/doishomensemeio.jpg" group-title="Canais | 24 horas (Séries)", Dois Homens e Meio
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194124
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House" tvg-logo="imagens/drhouse.jpg" group-title="Canais | 24 horas (Séries)", Dr. House
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211713
+#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh" tvg-logo="imagens/drakeejosh.jpg" group-title="Canais | 24 horas (Séries)", Drake e Josh
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194257
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="imagens/euapatroaeascriancas.jpg" group-title="Canais | 24 horas (Séries)", Eu a Patroa e as Crianças
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194064
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="imagens/todomundoodeiaochris.jpg" group-title="Canais | 24 horas (Séries)", Todo Mundo Odeia o Chris
+http://trenduhd.xyz:80/JOAO82975954/4180734012/291625
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="imagens/ummaluconopedaco.jpg" group-title="Canais | 24 horas (Séries)", Um Maluco no Pedaço
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194139
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 1" tvg-logo="imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 1
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298817
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 2" tvg-logo="imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298816
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 3" tvg-logo="imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 3
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298815
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 4" tvg-logo="imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 4
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298814
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="imagens/espn.png" group-title="Canais | ESPN", ESPN 1
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211805
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="imagens/espn.png" group-title="Canais | ESPN", ESPN 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211793
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="imagens/espn.png" group-title="Canais | ESPN", ESPN 3
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211799
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="imagens/espn.png" group-title="Canais | ESPN", ESPN 4
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211817
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="imagens/espnextra.png" group-title="Canais | ESPN", ESPN Extra
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211811
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 Clubes" tvg-logo="imagens/premiereclubes.png" group-title="Canais | Premiere", Premiere 1 Clubes
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188602
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="imagens/premiere.png" group-title="Canais | Premiere", Premiere 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188608
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="imagens/premiere.png" group-title="Canais | Premiere", Premiere 3
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188614
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="imagens/premiere.png" group-title="Canais | Premiere", Premiere 4
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188620
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="imagens/premiere.png" group-title="Canais | Premiere", Premiere 5
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188626
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="imagens/premiere.png" group-title="Canais | Premiere", Premiere 6
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188632
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="imagens/premiere.png" group-title="Canais | Premiere", Premiere 7
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188637
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="imagens/sportv.png" group-title="Canais | SporTV", SporTV 1
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211829
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="imagens/sportv.png" group-title="Canais | SporTV", SporTV 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211835
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="imagens/sportv.png" group-title="Canais | SporTV", SporTV 3
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211841
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="imagens/hbo.png" group-title="Canais | HBO", HBO
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211852
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="imagens/hbo2.png" group-title="Canais | HBO", HBO 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211858
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="imagens/hbofamily.png" group-title="Canais | HBO", HBO Family
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211864
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="imagens/hbomundi.png" group-title="Canais | HBO", HBO Mundi
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211870
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="imagens/hboplus.png" group-title="Canais | HBO", HBO Plus
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211876
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="imagens/hbopop.png" group-title="Canais | HBO", HBO Pop
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211882
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="imagens/hbosignature.png" group-title="Canais | HBO", HBO Signature
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211888
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="imagens/hboxtreme.png" group-title="Canais | HBO", HBO Xtreme
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211894
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="imagens/telecineaction.png" group-title="Canais | Telecine", Telecine Action
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188426
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="imagens/telecinecult.png" group-title="Canais | Telecine", Telecine Cult
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188432
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="imagens/telecinefun.png" group-title="Canais | Telecine", Telecine Fun
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188438
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="imagens/telecinepipoca.png" group-title="Canais | Telecine", Telecine Pipoca
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188444
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="imagens/telecinepremium.png" group-title="Canais | Telecine", Telecine Premium
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188450
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="imagens/telecinetouch.png" group-title="Canais | Telecine", Telecine Touch
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188456
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="imagens/tnt.png" group-title="Canais | TNT", TNT
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188570
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="imagens/tntseries.png" group-title="Canais | TNT", TNT Series
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188576
