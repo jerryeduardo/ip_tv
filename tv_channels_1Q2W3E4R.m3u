@@ -21,8 +21,6 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194044
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194047
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Z Super
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
-#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24 horas | ANIMES E DESENHOS", Futurama
-(link)
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoclassico.jpg" group-title="24 horas | ANIMES E DESENHOS", Naruto Clássico
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194052
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoshippuden.jpg" group-title="24 horas | ANIMES E DESENHOS", Naruto Shippuden
@@ -35,6 +33,10 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/291624
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194144
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2011/2020)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 horas | ANIMES E DESENHOS", Os Simpsons (2011/2020)
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194145
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/picapau.jpg" group-title="24 horas | ANIMES E DESENHOS", Pica-Pau
+http://brtx.online:80/JOAO82975954/4180734012/194186
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/picapau.jpg" group-title="24 horas | ANIMES E DESENHOS", Pica-Pau Clássico
+http://brtx.online:80/JOAO82975954/4180734012/194187
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 horas | SÉRIES", Big Bang: A Teoria
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194093
@@ -50,6 +52,9 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/211713
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194257
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 horas | SÉRIES", Eu a Patroa e as Crianças
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194064
+http://brtx.online:80/JOAO82975954/4180734012/194093
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sobrenatural.jpg" group-title="24 horas | SÉRIES", Sobrenatural
+http://brtx.online:80/JOAO82975954/4180734012/194110
 #EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/todomundoodeiaochris.jpg" group-title="24 horas | SÉRIES", Todo Mundo Odeia o Chris
 http://trenduhd.xyz:80/JOAO82975954/4180734012/291625
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ummaluconopedaco.jpg" group-title="24 horas | SÉRIES", Um Maluco no Pedaço
@@ -140,11 +145,6 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188450
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinetouch.png" group-title="Filmes | TELECINE", Telecine Touch
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188456
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tnt.png" group-title="FIlmes e Séries | TNT", TNT
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188570
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tntseries.png" group-title="FIlmes e Séries | TNT", TNT Series
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188576
-
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="FIlmes e Séries | VARIADOS", A&E
 http://brtx.online:80/JOAO82975954/4180734012/188462
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/amc.png" group-title="FIlmes e Séries | VARIADOS", AMC
@@ -153,19 +153,24 @@ http://brtx.online:80/JOAO82975954/4180734012/188468
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188534
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sony.png" group-title="FIlmes e Séries | VARIADOS", Sony
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188480
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/space.png" group-title="FIlmes e Séries | VARIADOS", Space
+http://brtx.online:80/JOAO82975954/4180734012/188546
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/starchannel.png" group-title="FIlmes e Séries | VARIADOS", Star Channel
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188498
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tnt.png" group-title="FIlmes e Séries | VARIADOS", TNT
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188570
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tntseries.png" group-title="FIlmes e Séries | VARIADOS", TNT Series
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188576
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/universal.png" group-title="FIlmes e Séries | VARIADOS", Universal TV
+http://brtx.online:80/JOAO82975954/4180734012/188582
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/warnerchannel.png" group-title="FIlmes e Séries | VARIADOS", Warner Channel
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188588
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tvbrasil.png" group-title="TV Aberta | VARIADOS", 1.1 TV Brasil
 http://trenduhd.xyz:80/JOAO82975954/4180734012/282456
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="TV Aberta | VARIADOS", 2.1 Cultura
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188880
-#EXTINF:-1 tvg-id="" tvg-name="Univesp TV" tvg-logo="" group-title="TV Aberta | VARIADOS", 2.2 Univesp TV
-(link)
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura e Educação" tvg-logo="" group-title="TV Aberta | VARIADOS", 2.3 TV Cultura e Educação
-(link)
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sbt.png" group-title="TV Aberta | VARIADOS", 4.1 SBT SP
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188727
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/globo.png" group-title="TV Aberta | VARIADOS", 5.1 Globo SP
@@ -183,6 +188,8 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188742
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="TV a Cabo | VARIADOS", Animal Planet
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188643
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bandsports.png" group-title="TV a Cabo | VARIADOS", Band Sports
+http://brtx.online:80/JOAO82975954/4180734012/211781
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV a Cabo | VARIADOS", Canal Brasil
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188859
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverychannel.png" group-title="TV a Cabo | VARIADOS", Discovery Channel
@@ -201,5 +208,7 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188681
 http://trenduhd.xyz:80/JOAO82975954/4180734012/189077
 #EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="TV a Cabo | VARIADOS", Futura
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188865
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nationalgeographic.png" group-title="TV a Cabo | VARIADOS", National Geographic
+http://brtx.online:80/JOAO82975954/4180734012/188709
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV a Cabo | VARIADOS", TLC
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188721
