@@ -35,7 +35,7 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194144
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2011/2020)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 horas | DESENHOS", Os Simpsons (2011/2020)
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194145
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futurama.jpg" group-title="24 horas | DESENHOS", Futurama
-http://trenduhd.xyz:80/JOAO82975954/4180734012/194244
+http://brtx.online:80/JOAO82975954/4180734012/194244
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 horas | SÉRIES", Big Bang: A Teoria
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194093
@@ -64,6 +64,8 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/211793
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211799
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 4
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211817
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 5
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211823
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espnextra.png" group-title="Esportes | ESPN", ESPN Extra
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211811
 
@@ -95,6 +97,12 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188637
 http://trenduhd.xyz:80/JOAO82975954/4180734012/299403
 #EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Prime Video", Prime Video 2
 http://trenduhd.xyz:80/JOAO82975954/4180734012/299402
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Prime Video", Prime Video 3
+http://brtx.online:80/JOAO82975954/4180734012/338638
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Prime Video", Prime Video 4
+http://brtx.online:80/JOAO82975954/4180734012/899513
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 5" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Prime Video", Prime Video 5
+http://brtx.online:80/JOAO82975954/4180734012/899514
 
 #EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV 1
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211829
@@ -138,8 +146,10 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188570
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tntseries.png" group-title="FIlmes e Séries | TNT", TNT Series
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188576
 
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="FIlmes e Séries | VARIADOS", A&E
+http://brtx.online:80/JOAO82975954/4180734012/188462
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/amc.png" group-title="FIlmes e Séries | VARIADOS", AMC
-http://topcine.fun:80/1517035942/925234/330
+http://brtx.online:80/JOAO82975954/4180734012/188468
 #EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/megapix.png" group-title="FIlmes e Séries | VARIADOS", Megapix
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188534
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sony.png" group-title="FIlmes e Séries | VARIADOS", Sony
@@ -192,7 +202,5 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188681
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188865
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/foodnetwork.png" group-title="TV a Cabo | VARIADOS", Food Network
 http://trenduhd.xyz:80/JOAO82975954/4180734012/189077
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/foxsports2.png" group-title="TV a Cabo | VARIADOS", Fox Sports 2
-http://trenduhd.xyz:80/JOAO82975954/4180734012/211823
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV a Cabo | VARIADOS", TLC
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188721
