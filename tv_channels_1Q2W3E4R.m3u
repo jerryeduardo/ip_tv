@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://2.bp.blogspot.com/-QWWJ9LNjkMI/VbbldJkqJxI/AAAAAAAAAgo/DhfKKKrq-HI/s1600/saga%2Bdos%2Bandroids.jpg" group-title="Canais | Abertos", 1.1 TV Brasil
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="imagens/tvbrasil.png" group-title="Canais | Abertos", 1.1 TV Brasil
 http://trenduhd.xyz:80/JOAO82975954/4180734012/282456
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/cultura.png" group-title="Canais | Abertos", 2.1 Cultura
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188880
