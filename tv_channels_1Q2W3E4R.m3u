@@ -56,29 +56,6 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/291625
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/ummaluconopedaco.jpg" group-title="24 horas | SÉRIES", Um Maluco no Pedaço
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194139
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tvbrasil.png" group-title="Abertos | TV", 1.1 TV Brasil
-http://trenduhd.xyz:80/JOAO82975954/4180734012/282456
-#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/cultura.png" group-title="Abertos | TV", 2.1 Cultura
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188880
-#EXTINF:-1 tvg-id="" tvg-name="Univesp TV" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/univesptv.png" group-title="Abertos | TV", 2.2 Univesp TV
-(link)
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura e Educação" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tvculturaeeducacao.png" group-title="Abertos | TV", 2.3 TV Cultura e Educação
-(link)
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sbt.png" group-title="Abertos | TV", 4.1 SBT SP
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188727
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/globo.png" group-title="Abertos | TV", 5.1 Globo SP
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188302
-#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/record.png" group-title="Abertos | TV", 7.1 Record
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188790
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/redetv.png" group-title="Abertos | TV", 9.1 Rede TV
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188871
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/gazeta.png" group-title="Abertos | TV", 11.1 TV Gazeta SP
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188876
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil " tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/redebrasil.png" group-title="Abertos | TV", 12.1 Rede Brasil 
-http://trenduhd.xyz:80/JOAO82975954/4180734012/200362
-#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/band.png" group-title="Abertos | TV", 13.1 Band SP
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188742
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 1
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211805
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 2
@@ -161,38 +138,61 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188570
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tntseries.png" group-title="FIlmes e Séries | TNT", TNT Series
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188576
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/amc.png" group-title="Por Assinatura | FILMES", AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/amc.png" group-title="FIlmes e Séries | VARIADOS", AMC
 http://topcine.fun:80/1517035942/925234/330
-#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/megapix.png" group-title="Por Assinatura | FILMES", Megapix
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/megapix.png" group-title="FIlmes e Séries | VARIADOS", Megapix
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188534
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sony.png" group-title="Por Assinatura | FILMES", Sony
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sony.png" group-title="FIlmes e Séries | VARIADOS", Sony
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188480
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/starchannel.png" group-title="Por Assinatura | FILMES", Star Channel
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/starchannel.png" group-title="FIlmes e Séries | VARIADOS", Star Channel
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188498
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/warnerchannel.png" group-title="Por Assinatura | FILMES", Warner Channel
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/warnerchannel.png" group-title="FIlmes e Séries | VARIADOS", Warner Channel
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188588
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/animalplanet.png" group-title="Por Assinatura | VARIEDADES", Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tvbrasil.png" group-title="TV Aberta | VARIADOS", 1.1 TV Brasil
+http://trenduhd.xyz:80/JOAO82975954/4180734012/282456
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/cultura.png" group-title="TV Aberta | VARIADOS", 2.1 Cultura
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188880
+#EXTINF:-1 tvg-id="" tvg-name="Univesp TV" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/univesptv.png" group-title="TV Aberta | VARIADOS", 2.2 Univesp TV
+(link)
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura e Educação" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tvculturaeeducacao.png" group-title="TV Aberta | VARIADOS", 2.3 TV Cultura e Educação
+(link)
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sbt.png" group-title="TV Aberta | VARIADOS", 4.1 SBT SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188727
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/globo.png" group-title="TV Aberta | VARIADOS", 5.1 Globo SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188302
+#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/record.png" group-title="TV Aberta | VARIADOS", 7.1 Record
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188790
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/redetv.png" group-title="TV Aberta | VARIADOS", 9.1 Rede TV
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188871
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/gazeta.png" group-title="TV Aberta | VARIADOS", 11.1 TV Gazeta SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188876
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil " tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/redebrasil.png" group-title="TV Aberta | VARIADOS", 12.1 Rede Brasil 
+http://trenduhd.xyz:80/JOAO82975954/4180734012/200362
+#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/band.png" group-title="TV Aberta | VARIADOS", 13.1 Band SP
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188742
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/animalplanet.png" group-title="TV a Cabo | VARIADOS", Animal Planet
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188643
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/canalbrasil.png" group-title="Por Assinatura | VARIEDADES", Canal Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/canalbrasil.png" group-title="TV a Cabo | VARIADOS", Canal Brasil
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188859
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoverychannel.png" group-title="Por Assinatura | VARIEDADES", Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoverychannel.png" group-title="TV a Cabo | VARIADOS", Discovery Channel
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188649
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryhah.png" group-title="Por Assinatura | VARIEDADES", Discovery Home and Health 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryhah.png" group-title="TV a Cabo | VARIADOS", Discovery Home and Health 
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188655
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryscience.png" group-title="Por Assinatura | VARIEDADES", Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryscience.png" group-title="TV a Cabo | VARIADOS", Discovery Science
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188661
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoverytheater.png" group-title="Por Assinatura | VARIEDADES", Discovery Theater
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoverytheater.png" group-title="TV a Cabo | VARIADOS", Discovery Theater
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188667
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryturbo.png" group-title="Por Assinatura | VARIEDADES", Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryturbo.png" group-title="TV a Cabo | VARIADOS", Discovery Turbo
 http://trenduhd.xyz:80/JOAO82975954/4180734012/295657
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryworld.png" group-title="Por Assinatura | VARIEDADES", Discovery World
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/discoveryworld.png" group-title="TV a Cabo | VARIADOS", Discovery World
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188681
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/futura.png" group-title="Por Assinatura | VARIEDADES", Futura
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/futura.png" group-title="TV a Cabo | VARIADOS", Futura
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188865
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foodnetwork.png" group-title="Por Assinatura | VARIEDADES", Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foodnetwork.png" group-title="TV a Cabo | VARIADOS", Food Network
 http://trenduhd.xyz:80/JOAO82975954/4180734012/189077
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foxsports2.png" group-title="Por Assinatura | VARIEDADES", Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foxsports2.png" group-title="TV a Cabo | VARIADOS", Fox Sports 2
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211823
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tlc.png" group-title="Por Assinatura | VARIEDADES", TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tlc.png" group-title="TV a Cabo | VARIADOS", TLC
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188721
