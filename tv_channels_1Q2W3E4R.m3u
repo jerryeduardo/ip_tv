@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="imagens/tvbrasil.png" group-title="Canais | Abertos", 1.1 TV Brasil
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tvbrasil.png" group-title="Canais | Abertos", 1.1 TV Brasil
 http://trenduhd.xyz:80/JOAO82975954/4180734012/282456
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/cultura.png" group-title="Canais | Abertos", 2.1 Cultura
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188880
@@ -22,24 +22,6 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/200362
 #EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/band.png" group-title="Canais | Abertos", 13.1 Band SP
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188742
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foxsports2.png" group-title="Canais | Por Assinatura (Esportes)", Fox Sports 2
-http://trenduhd.xyz:80/JOAO82975954/4180734012/211823
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/primevideo.png" group-title="Canais | Por Assinatura (Esportes)", Prime Video 1
-http://trenduhd.xyz:80/JOAO82975954/4180734012/299403
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/primevideo.png" group-title="Canais | Por Assinatura (Esportes)", Prime Video 2
-http://trenduhd.xyz:80/JOAO82975954/4180734012/299402
-
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/amc.png" group-title="Canais | Por Assinatura (Filmes)", AMC
-http://topcine.fun:80/1517035942/925234/330
-#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/megapix.png" group-title="Canais | Por Assinatura (Filmes)", Megapix
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188534
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sony.png" group-title="Canais | Por Assinatura (Filmes)", Sony
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188480
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/starchannel.png" group-title="Canais | Por Assinatura (Filmes)", Star Channel
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188498
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/warnerchannel.png" group-title="Canais | Por Assinatura (Filmes)", Warner Channel
-http://trenduhd.xyz:80/JOAO82975954/4180734012/188588
-
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/animalplanet.png" group-title="Canais | Por Assinatura (Variedades)", Animal Planet
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188643
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/canalbrasil.png" group-title="Canais | Por Assinatura (Variedades)", Canal Brasil
@@ -60,6 +42,8 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188681
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188865
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foodnetwork.png" group-title="Canais | Por Assinatura (Variedades)", Food Network
 http://trenduhd.xyz:80/JOAO82975954/4180734012/189077
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/foxsports2.png" group-title="Canais | Por Assinatura (Variedades)", Fox Sports 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/211823
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/tlc.png" group-title="Canais | Por Assinatura (Variedades)", TLC
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188721
 
@@ -81,6 +65,10 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194045
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194051
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Saiyaman" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Saiyaman
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194050
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Babidi" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Babidi
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194044
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga Majin Boo" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Saga Majin Boo
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194047
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Super" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/dragonballz.jpg" group-title="Canais | 24 horas (Animes)", Dragon Ball Z Super
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/narutoclassico.jpg" group-title="Canais | 24 horas (Animes)", Naruto Clássico
@@ -88,7 +76,7 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194052
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/narutoshippuden.jpg" group-title="Canais | 24 horas (Animes)", Naruto Shippuden
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194053
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/boruto.jpg" group-title="Canais | 24 horas (Animes)", Boruto: Naruto Next Generations
-(link)
+http://trenduhd.xyz:80/JOAO82975954/4180734012/194054
 
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2000/2010)" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/ossimpsons.jpg" group-title="Canais | 24 horas (Desenhos)", Os Simpsons (2000/2010)
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194144
@@ -96,6 +84,17 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194144
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194145
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/futurama.jpg" group-title="Canais | 24 horas (Desenhos)", Futurama
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194244
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/amc.png" group-title="Canais | Por Assinatura (Filmes)", AMC
+http://topcine.fun:80/1517035942/925234/330
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/megapix.png" group-title="Canais | Por Assinatura (Filmes)", Megapix
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188534
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sony.png" group-title="Canais | Por Assinatura (Filmes)", Sony
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188480
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/starchannel.png" group-title="Canais | Por Assinatura (Filmes)", Star Channel
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188498
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/warnerchannel.png" group-title="Canais | Por Assinatura (Filmes)", Warner Channel
+http://trenduhd.xyz:80/JOAO82975954/4180734012/188588
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/bigbangateoria.jpg" group-title="Canais | 24 horas (Séries)", Big Bang: A Teoria
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194093
@@ -115,15 +114,6 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194064
 http://trenduhd.xyz:80/JOAO82975954/4180734012/291625
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/ummaluconopedaco.jpg" group-title="Canais | 24 horas (Séries)", Um Maluco no Pedaço
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194139
-
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 1" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 1
-http://trenduhd.xyz:80/JOAO82975954/4180734012/298817
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 2
-http://trenduhd.xyz:80/JOAO82975954/4180734012/298816
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 3" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 3
-http://trenduhd.xyz:80/JOAO82975954/4180734012/298815
-#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 4" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 4
-http://trenduhd.xyz:80/JOAO82975954/4180734012/298814
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/espn.png" group-title="Canais | ESPN", ESPN 1
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211805
@@ -150,6 +140,21 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/188626
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188632
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/premiere.png" group-title="Canais | Premiere", Premiere 7
 http://trenduhd.xyz:80/JOAO82975954/4180734012/188637
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 1" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 1
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298817
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 2" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298816
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 3" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 3
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298815
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 4" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/paramount+conmebol.png" group-title="Canais | Paramount+ CONMEBOL", Paramount+ CONMEBOL 4
+http://trenduhd.xyz:80/JOAO82975954/4180734012/298814
+
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="https://i.postimg.cc/GhvPZBS5/primevideo.png" group-title="Canais | Prime Video", Prime Video 1
+http://trenduhd.xyz:80/JOAO82975954/4180734012/299403
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="https://i.postimg.cc/GhvPZBS5/primevideo.png" group-title="Canais | Prime Video", Prime Video 2
+http://trenduhd.xyz:80/JOAO82975954/4180734012/299402
 
 #EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://alodial-widths.000webhostapp.com/iptv/imagens/sportv.png" group-title="Canais | SporTV", SporTV 1
 http://trenduhd.xyz:80/JOAO82975954/4180734012/211829
