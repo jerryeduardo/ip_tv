@@ -7,7 +7,7 @@ http://brtx.online:80/JOAO82975954/4180734012/194288
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96635
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballclassico.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Clássico
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194041
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Z Super
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Super
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
 #EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heman.jpg" group-title="24 horas | ANIMES E DESENHOS", He-Man
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96669
@@ -28,20 +28,16 @@ http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96598
 #EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/superchoque.jpg" group-title="24 horas | ANIMES E DESENHOS", Super Choque
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96782
 
-#EXTINF:-1 tvg-id="" tvg-name="24H MICKEY CLASSICO" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H MICKEY CLASSICO
-http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96699
 #EXTINF:-1 tvg-id="" tvg-name="24H Mickey Donald e Pateta" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H Mickey Donald e Pateta
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96700
-#EXTINF:-1 tvg-id="" tvg-name="24H A CASA DO MICKEY MOUSE" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H A CASA DO MICKEY MOUSE
-http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96569
 #EXTINF:-1 tvg-id="" tvg-name="24H NARUTO" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H NARUTO
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96706
 #EXTINF:-1 tvg-id="" tvg-name="24H Thundercats" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H Thundercats
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96792
-#EXTINF:-1 tvg-id="" tvg-name="24H TÁ CHOVENDO HAMBURGUER" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H TÁ CHOVENDO HAMBURGUER
-http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96801
 #EXTINF:-1 tvg-id="" tvg-name="Xla" tvg-logo="" group-title="Xla", Xla
 http://bccdn.xyz:80/movie/BZtaS25RDfn/v9StL5jn4aD/425691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H GATO FELIX
+http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96665
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 horas | SÉRIES", Big Bang: A Teoria
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96804
