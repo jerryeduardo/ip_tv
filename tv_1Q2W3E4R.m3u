@@ -7,16 +7,20 @@ http://brtx.online:80/JOAO82975954/4180734012/194288
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96635
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballclassico.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Clássico
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194041
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Super
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Super
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
 #EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heman.jpg" group-title="24 horas | ANIMES E DESENHOS", He-Man
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96669
 #EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="" group-title="24 horas | ANIMES E DESENHOS", Hey Arnold
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96602
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/naruto.jpg" group-title="24 horas | ANIMES E DESENHOS", Naruto Clássico
+#EXTINF:-1 tvg-id="" tvg-name="Mickey, Donald e Pateta" tvg-logo="" group-title="24 horas | ANIMES E DESENHOS", Mickey, Donald e Pateta
+http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96700
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoclassico.jpg" group-title="24 horas | ANIMES E DESENHOS", Naruto Clássico
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96706
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoshippuden.jpg" group-title="24 horas | ANIMES E DESENHOS", Naruto Shippuden
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194053
+#EXTINF:-1 tvg-id="" tvg-name="O Gato Félix" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/gatofelix.jpg" group-title="24 horas | ANIMES E DESENHOS", O Gato Félix
+http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96665
 #EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/oscavaleirosdozodiaco.jpg" group-title="24 horas | ANIMES E DESENHOS", Os Cavaleiros do Zodíaco
 http://trenduhd.xyz:80/JOAO82975954/4180734012/291624
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2000/2010)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 horas | ANIMES E DESENHOS", Os Simpsons (2000/2010)
@@ -32,16 +36,15 @@ http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96782
 #EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="hhttps://jerryeduardo.github.io/ip_tv/imagens/thundercats.jpg" group-title="24 horas | ANIMES E DESENHOS", Thundercats
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96792
 
-#EXTINF:-1 tvg-id="" tvg-name="24H Mickey Donald e Pateta" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H Mickey Donald e Pateta
-http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96700
+
 #EXTINF:-1 tvg-id="" tvg-name="Xla" tvg-logo="" group-title="Xla", Xla
-http://bccdn.xyz:80/movie/BZtaS25RDfn/v9StL5jn4aD/425691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H GATO FELIX
-http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96665
+http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/430684
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 horas | SÉRIES", Big Bang: A Teoria
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96804
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="" group-title="24 horas | SÉRIES", Breaking Bad
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/breakingbad.jpg" group-title="24 horas | SÉRIES", Breaking Bad
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96599
 #EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chaves.jpg" group-title="24 horas | SÉRIES", Chaves
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194060
@@ -55,7 +58,7 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/211713
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194257
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 horas | SÉRIES", Eu a Patroa e as Crianças
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194064
-#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="" group-title="24 horas | SÉRIES", Os Trapalhões
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ostrapalhoes.jpg" group-title="24 horas | SÉRIES", Os Trapalhões
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96739
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sobrenatural.jpg" group-title="24 horas | SÉRIES", Sobrenatural
 http://brtx.online:80/JOAO82975954/4180734012/194110
