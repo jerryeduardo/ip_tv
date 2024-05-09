@@ -7,6 +7,8 @@ http://brtx.online:80/JOAO82975954/4180734012/194288
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96635
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballclassico.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Clássico
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194041
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="224 horas | ANIMES E DESENHOS", Dragon Ball Z
+http://txup.live:80/JOAO82975954/4180734012/291626
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballsuper.jpg" group-title="24 horas | ANIMES E DESENHOS", Dragon Ball Super
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
 #EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heman.jpg" group-title="24 horas | ANIMES E DESENHOS", He-Man
@@ -23,8 +25,6 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194053
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96665
 #EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/oscavaleirosdozodiaco.jpg" group-title="24 horas | ANIMES E DESENHOS", Os Cavaleiros do Zodíaco
 http://trenduhd.xyz:80/JOAO82975954/4180734012/291624
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2000/2010)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 horas | ANIMES E DESENHOS", Os Simpsons (2000/2010)
-http://trenduhd.xyz:80/JOAO82975954/4180734012/194144
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (2011/2020)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 horas | ANIMES E DESENHOS", Os Simpsons (2011/2020)
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194145
 #EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/picapau.jpg" group-title="24 horas | ANIMES E DESENHOS", Pica-Pau
@@ -41,15 +41,11 @@ http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96804
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/breakingbad.jpg" group-title="24 horas | SÉRIES", Breaking Bad
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96599
 #EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chaves.jpg" group-title="24 horas | SÉRIES", Chaves
-http://trenduhd.xyz:80/JOAO82975954/4180734012/194060
+http://txup.live:80/JOAO82975954/4180734012/194060
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chapolin.jpg" group-title="24 horas | SÉRIES", Chapolin Colorado
 http://trenduhd.xyz:80/JOAO82975954/4180734012/296725
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/doishomensemeio.jpg" group-title="24 horas | SÉRIES", Dois Homens e Meio
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194124
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/drhouse.jpg" group-title="24 horas | SÉRIES", Dr. House
-http://trenduhd.xyz:80/JOAO82975954/4180734012/211713
-#EXTINF:-1 tvg-id="" tvg-name="Drake e Josh" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/drakeejosh.jpg" group-title="24 horas | SÉRIES", Drake e Josh
-http://trenduhd.xyz:80/JOAO82975954/4180734012/194257
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 horas | SÉRIES", Eu a Patroa e as Crianças
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194064
 #EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ostrapalhoes.jpg" group-title="24 horas | SÉRIES", Os Trapalhões
