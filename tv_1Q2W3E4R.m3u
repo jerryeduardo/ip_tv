@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="" group-title="24 horas | ANIMES E DESENHOS", As Aventuras de Jackie Chan
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/jackiechan.jpg" group-title="24 horas | ANIMES E DESENHOS", As Aventuras de Jackie Chan
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96582
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tom & Jerry" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tomejerry.jpg" group-title="24 horas | ANIMES E DESENHOS", As Aventuras de Tom & Jerry
 http://brtx.online:80/JOAO82975954/4180734012/194288
@@ -11,7 +11,7 @@ http://trenduhd.xyz:80/JOAO82975954/4180734012/194041
 http://trenduhd.xyz:80/JOAO82975954/4180734012/194042
 #EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heman.jpg" group-title="24 horas | ANIMES E DESENHOS", He-Man
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96669
-#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="" group-title="24 horas | ANIMES E DESENHOS", Hey Arnold
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heyarnold.jpg" group-title="24 horas | ANIMES E DESENHOS", Hey Arnold
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96602
 #EXTINF:-1 tvg-id="" tvg-name="Mickey, Donald e Pateta" tvg-logo="" group-title="24 horas | ANIMES E DESENHOS", Mickey, Donald e Pateta
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96700
@@ -33,7 +33,7 @@ http://brtx.online:80/JOAO82975954/4180734012/194186
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96598
 #EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/superchoque.jpg" group-title="24 horas | ANIMES E DESENHOS", Super Choque
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96782
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="hhttps://jerryeduardo.github.io/ip_tv/imagens/thundercats.jpg" group-title="24 horas | ANIMES E DESENHOS", Thundercats
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/thundercats.jpg" group-title="24 horas | ANIMES E DESENHOS", Thundercats
 http://bccdn.xyz:80/BZtaS25RDfn/v9StL5jn4aD/96792
 
 #EXTINF:-1 tvg-id="" tvg-name="Xla" tvg-logo="" group-title="Xla", Xla
