@@ -3,6 +3,8 @@
 http://treebox.online:80/JOAO82975954/4180734012/1140163
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tom & Jerry" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tomejerry.jpg" group-title="24 Horas | ANIMES E DESENHOS", As Aventuras de Tom & Jerry
 http://treebox.online:80/JOAO82975954/4180734012/934635
+#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="24 Horas | ANIMES E DESENHOS", Boruto: Naruto Next Generations
+http://treebox.online:80/JOAO82975954/4180734012/1139456
 #EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/doug.jpg" group-title="24 Horas | ANIMES E DESENHOS", Doug
 http://treebox.online:80/JOAO82975954/4180734012/1139954
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballclassico.jpg" group-title="24 Horas | ANIMES E DESENHOS", Dragon Ball Clássico
@@ -17,7 +19,7 @@ http://treebox.online:80/JOAO82975954/4180734012/1139166
 http://treebox.online:80/JOAO82975954/4180734012/1139164
 #EXTINF:-1 tvg-id="" tvg-name="DuckTales: Os Caçadores de Aventuras" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ducktales(2).jpg" group-title="24 Horas | ANIMES E DESENHOS", DuckTales: Os Caçadores de Aventuras
 http://treebox.online:80/JOAO82975954/4180734012/1139955
-#EXTINF:-1 tvg-id="" tvg-name="24H FUTURAMA" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sdJcX2cXirwQurLLlrDLYov7hcD.jpg" group-title="24 HORAS | DESENHOS",24H FUTURAMA
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ducktales(2).jpg" group-title="24 Horas | ANIMES E DESENHOS", Futurama
 http://treebox.online:80/JOAO82975954/4180734012/1139163
 #EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heman.jpg" group-title="24 Horas | ANIMES E DESENHOS", He-Man
 http://treebox.online:80/JOAO82975954/4180734012/1140158
@@ -25,8 +27,6 @@ http://treebox.online:80/JOAO82975954/4180734012/1140158
 http://treebox.online:80/JOAO82975954/4180734012/1139160
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoshippuden.jpg" group-title="24 Horas | ANIMES E DESENHOS", Naruto Shippuden
 http://treebox.online:80/JOAO82975954/4180734012/1139453
-#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/boruto.jpg" group-title="24 Horas | ANIMES E DESENHOS", Boruto: Naruto Next Generations
-http://treebox.online:80/JOAO82975954/4180734012/1139456
 #EXTINF:-1 tvg-id="" tvg-name="O Gato Félix" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/gatofelix.jpg" group-title="24 Horas | ANIMES E DESENHOS", O Gato Félix
 http://treebox.online:80/JOAO82975954/4180734012/1140156
 #EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/oscavaleirosdozodiaco.jpg" group-title="24 Horas | ANIMES E DESENHOS", Os Cavaleiros do Zodíaco
@@ -39,33 +39,31 @@ http://treebox.online:80/JOAO82975954/4180734012/1139959
 http://treebox.online:80/JOAO82975954/4180734012/934508
 #EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/superchoque.jpg" group-title="24 Horas | ANIMES E DESENHOS", Super Choque
 http://treebox.online:80/JOAO82975954/4180734012/934563
-#EXTINF:-1 tvg-id="" tvg-name="24H  YU-GI-OH" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ra8CKkCHjSok8L9meEP4WuOukNK.jphttp://image.tmdb.org/t/p/w600_and_h900_bestv2/ra8CKkCHjSok8L9meEP4WuOukNK.jpg" group-title="24 HORAS | ANIMES",24H  YU-GI-OH
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Duel Monsters" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/yugiohduelmonsters.jpg" group-title="24 Horas | ANIMES E DESENHOS", Yu-Gi-Oh!
 http://treebox.online:80/JOAO82975954/4180734012/1139470
 #EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DO ZE COLMEIA" tvg-logo="https://maniadegibi.com/loja/images/Ze%20Colmeia%201971%2002.jpg" group-title="24 HORAS | DESENHOS",24H A TURMA DO ZE COLMEIA
 http://treebox.online:80/JOAO82975954/4180734012/934101
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 Horas | SÉRIES", Big Bang: A Teoria
 http://treebox.online:80/JOAO82975954/4180734012/1139530
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/breakingbad.jpg" group-title="24 Horas | SÉRIES", Breaking Bad
 #EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chaves.jpg" group-title="24 Horas | SÉRIES", Chaves
 http://treebox.online:80/JOAO82975954/4180734012/1139525
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chapolin.jpg" group-title="24 Horas | SÉRIES", Chapolin Colorado
 http://treebox.online:80/JOAO82975954/4180734012/1139526
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/doishomensemeio.jpg" group-title="24 Horas | SÉRIES", Dois Homens e Meio
 http://treebox.online:80/JOAO82975954/4180734012/1139591
-#EXTINF:-1 tvg-id="" tvg-name="24H DR. HOUSE" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg" group-title="24 HORAS | SERIES",24H DR. HOUSE
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/drhouse.jpg" group-title="24 Horas | SÉRIES", Dr. House
 http://treebox.online:80/JOAO82975954/4180734012/1139635
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 Horas | SÉRIES", Eu a Patroa e as Crianças
 http://treebox.online:80/JOAO82975954/4180734012/1139528
-#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ostrapalhoes.jpg" group-title="24 Horas | SÉRIES", Os Trapalhões
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/startrek.jpg" group-title="24 Horas | SÉRIES", Star Trek
+http://treebox.online:80/JOAO82975954/4180734012/1139913
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sobrenatural.jpg" group-title="24 Horas | SÉRIES", Sobrenatural
 http://treebox.online:80/JOAO82975954/4180734012/1139625
 #EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/todomundoodeiaochris.jpg" group-title="24 Horas | SÉRIES", Todo Mundo Odeia o Chris
 http://treebox.online:80/JOAO82975954/4180734012/1139527
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ummaluconopedaco.jpg" group-title="24 Horas | SÉRIES", Um Maluco no Pedaço
 http://treebox.online:80/JOAO82975954/4180734012/1139681
-#EXTINF:-1 tvg-id="" tvg-name="24H JORNADA NAS ESTRELAS" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xH37StqHBet4ehmqUTWXULKi3ZK.jpg" group-title="24 HORAS | SERIES",24H JORNADA NAS ESTRELAS
-http://treebox.online:80/JOAO82975954/4180734012/1139913
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 1
 http://treebox.online:80/JOAO82975954/4180734012/211805
@@ -172,8 +170,6 @@ http://treebox.online:80/JOAO82975954/4180734012/188582
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/warnerchannel.png" group-title="FIlmes e Séries | VARIADOS", Warner Channel
 http://treebox.online:80/JOAO82975954/4180734012/188588
 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tvbrasil.png" group-title="TV Aberta | VARIADOS", 1.1 TV Brasil
 
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="TV Aberta | VARIADOS", 2.1 Cultura
 http://treebox.online:80/JOAO82975954/4180734012/188880
