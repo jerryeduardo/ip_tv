@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Zé Colmeia" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aturmadozecolmeia.jpg" group-title="24 Horas | ANIMES E DESENHOS", A Turma do Zé Colmeia
+http://treebox.online:80/JOAO82975954/4180734012/934101
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/jackiechan.jpg" group-title="24 Horas | ANIMES E DESENHOS", As Aventuras de Jackie Chan
 http://treebox.online:80/JOAO82975954/4180734012/1140163
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tom & Jerry" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tomejerry.jpg" group-title="24 Horas | ANIMES E DESENHOS", As Aventuras de Tom & Jerry
@@ -41,8 +43,6 @@ http://treebox.online:80/JOAO82975954/4180734012/934508
 http://treebox.online:80/JOAO82975954/4180734012/934563
 #EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Duel Monsters" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/yugiohduelmonsters.jpg" group-title="24 Horas | ANIMES E DESENHOS", Yu-Gi-Oh! Duel Monsters
 http://treebox.online:80/JOAO82975954/4180734012/1139470
-#EXTINF:-1 tvg-id="" tvg-name="A Turma do Zé Colmeia" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aturmadozecolmeia.jpg" group-title="24 Horas | ANIMES E DESENHOS", A Turma do Zé Colmeia
-http://treebox.online:80/JOAO82975954/4180734012/934101
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 Horas | SÉRIES", Big Bang: A Teoria
 http://treebox.online:80/JOAO82975954/4180734012/1139530
