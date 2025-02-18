@@ -39,7 +39,7 @@ http://treebox.online:80/JOAO82975954/4180734012/1139959
 http://treebox.online:80/JOAO82975954/4180734012/934508
 #EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/superchoque.jpg" group-title="24 Horas | ANIMES E DESENHOS", Super Choque
 http://treebox.online:80/JOAO82975954/4180734012/934563
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Duel Monsters" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/yugiohduelmonsters.jpg" group-title="24 Horas | ANIMES E DESENHOS", Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Duel Monsters" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/yugiohduelmonsters.jpg" group-title="24 Horas | ANIMES E DESENHOS", Yu-Gi-Oh! Duel Monsters
 http://treebox.online:80/JOAO82975954/4180734012/1139470
 #EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DO ZE COLMEIA" tvg-logo="https://maniadegibi.com/loja/images/Ze%20Colmeia%201971%2002.jpg" group-title="24 HORAS | DESENHOS",24H A TURMA DO ZE COLMEIA
 http://treebox.online:80/JOAO82975954/4180734012/934101
@@ -82,6 +82,15 @@ http://treebox.online:80/JOAO82975954/4180734012/211811
 http://treebox.online:80/JOAO82975954/4180734012/286681
 #EXTINF:-1 tvg-id="" tvg-name="Max 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/max.png" group-title="Esportes | Max", Max 2
 http://treebox.online:80/JOAO82975954/4180734012/286682
+
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nossofutebol.png" group-title="Esportes | Nosso Futebol", Nosso Futebol 1
+http://treebox.online:80/JOAO82975954/4180734012/345480
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nossofutebol.png" group-title="Esportes | Nosso Futebol", Nosso Futebol 2
+http://treebox.online:80/JOAO82975954/4180734012/345481
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 3" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nossofutebol.png" group-title="Esportes | Nosso Futebol", Nosso Futebol 3
+http://treebox.online:80/JOAO82975954/4180734012/345482
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nossofutebol.png" group-title="Esportes | Nosso Futebol", Nosso Futebol 4
+http://treebox.online:80/JOAO82975954/4180734012/369956
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/paramount+conmebol.png" group-title="Esportes | Paramount+ CONMEBOL", Paramount+ CONMEBOL 1
 http://treebox.online:80/JOAO82975954/4180734012/298817
@@ -169,7 +178,6 @@ http://treebox.online:80/JOAO82975954/4180734012/188576
 http://treebox.online:80/JOAO82975954/4180734012/188582
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/warnerchannel.png" group-title="FIlmes e Séries | VARIADOS", Warner Channel
 http://treebox.online:80/JOAO82975954/4180734012/188588
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="TV Aberta | VARIADOS", 2.1 Cultura
 http://treebox.online:80/JOAO82975954/4180734012/188880
