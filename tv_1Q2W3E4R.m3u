@@ -41,7 +41,7 @@ http://treebox.online:80/JOAO82975954/4180734012/934508
 http://treebox.online:80/JOAO82975954/4180734012/934563
 #EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Duel Monsters" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/yugiohduelmonsters.jpg" group-title="24 Horas | ANIMES E DESENHOS", Yu-Gi-Oh! Duel Monsters
 http://treebox.online:80/JOAO82975954/4180734012/1139470
-#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DO ZE COLMEIA" tvg-logo="https://maniadegibi.com/loja/images/Ze%20Colmeia%201971%2002.jpg" group-title="24 HORAS | DESENHOS",24H A TURMA DO ZE COLMEIA
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Zé Colmeia" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aturmadozecolmeia.jpg" group-title="24 Horas | ANIMES E DESENHOS", Yu-Gi-Oh! Duel Monsters
 http://treebox.online:80/JOAO82975954/4180734012/934101
 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bigbangateoria.jpg" group-title="24 Horas | SÉRIES", Big Bang: A Teoria
@@ -56,7 +56,7 @@ http://treebox.online:80/JOAO82975954/4180734012/1139591
 http://treebox.online:80/JOAO82975954/4180734012/1139635
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 Horas | SÉRIES", Eu a Patroa e as Crianças
 http://treebox.online:80/JOAO82975954/4180734012/1139528
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/startrek.jpg" group-title="24 Horas | SÉRIES", Star Trek
+#EXTINF:-1 tvg-id="" tvg-name="Jornada nas Estrelas" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/startrek.jpg" group-title="24 Horas | SÉRIES", Jornada nas Estrelas
 http://treebox.online:80/JOAO82975954/4180734012/1139913
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sobrenatural.jpg" group-title="24 Horas | SÉRIES", Sobrenatural
 http://treebox.online:80/JOAO82975954/4180734012/1139625
@@ -202,6 +202,8 @@ http://treebox.online:80/JOAO82975954/4180734012/188643
 http://treebox.online:80/JOAO82975954/4180734012/211781
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV a Cabo | VARIADOS", Canal Brasil
 http://treebox.online:80/JOAO82975954/4180734012/188859
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/.png" group-title="TV a Cabo | VARIADOS", CNN Brasil
+http://treebox.online:80/JOAO82975954/4180734012/189215
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverychannel.png" group-title="TV a Cabo | VARIADOS", Discovery Channel
 http://treebox.online:80/JOAO82975954/4180734012/188649
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryhah.png" group-title="TV a Cabo | VARIADOS", Discovery Home and Health 
@@ -218,28 +220,9 @@ http://treebox.online:80/JOAO82975954/4180734012/188681
 http://treebox.online:80/JOAO82975954/4180734012/189077
 #EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="TV a Cabo | VARIADOS", Futura
 http://treebox.online:80/JOAO82975954/4180734012/188865
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/.png" group-title="TV a Cabo | VARIADOS", Music Box Brazil
+http://treebox.online:80/JOAO82975954/4180734012/189102
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nationalgeographic.png" group-title="TV a Cabo | VARIADOS", National Geographic
 http://treebox.online:80/JOAO82975954/4180734012/188709
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV a Cabo | VARIADOS", TLC
 http://treebox.online:80/JOAO82975954/4180734012/188721
-
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://dlstvonline.com/images/NOTICIAS/CNN.png" group-title="CANAIS | NOTICIAS",CNN BRASIL HD
-http://treebox.online:80/JOAO82975954/4180734012/189215
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://dlstvonline.com/images/Filmes_Series/COMEDY.png" group-title="CANAIS | FILMES & SERIES",COMEDY CENTRAL HD
-http://treebox.online:80/JOAO82975954/4180734012/188492
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="MAX 1" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 1
-http://treebox.online:80/JOAO82975954/4180734012/286681
-#EXTINF:-1 tvg-id="" tvg-name="MAX 2" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 2
-http://treebox.online:80/JOAO82975954/4180734012/286682
-#EXTINF:-1 tvg-id="" tvg-name="MAX 3" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 3
-http://treebox.online:80/JOAO82975954/4180734012/286683
-#EXTINF:-1 tvg-id="" tvg-name="MAX 4" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 4
-http://treebox.online:80/JOAO82975954/4180734012/286684
-#EXTINF:-1 tvg-id="" tvg-name="MAX 5" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 5
-http://treebox.online:80/JOAO82975954/4180734012/341357
-#EXTINF:-1 tvg-id="" tvg-name="MAX 6" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 6
-http://treebox.online:80/JOAO82975954/4180734012/341358
-#EXTINF:-1 tvg-id="" tvg-name="MAX 7" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/HBOMAX1.jpg" group-title=" CANAIS | HBO MAX",MAX 7
-http://treebox.online:80/JOAO82975954/4180734012/954338
-#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/MUSIC.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL HD
-http://treebox.online:80/JOAO82975954/4180734012/189102
