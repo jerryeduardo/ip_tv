@@ -218,8 +218,11 @@ http://treebox.online:80/JOAO82975954/4180734012/188709
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV Por Assinatura | Variados", TLC
 http://treebox.online:80/JOAO82975954/4180734012/188721
 
-#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto the Movie" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutothemovie.jpg" group-title="Filmes | Animes", Boruto: Naruto the Movie
+#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto the Movie" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutothemovie.jpg" group-title="Filmes | Animes", Boruto: Naruto the Movie (2015)
 http://treebox.online:80/movie/JOAO82975954/4180734012/1037334.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Minimalismo Já" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/minimalismoja.jpg" group-title="Filmes | Variados", Minimalismo Já (2021)
+http://treebox.online:80/movie/JOAO82975954/4180734012/612998.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations [L] S01 E01" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="Séries | Animes", Boruto: Naruto Next Generations [L] S01 E01
 http://treebox.online:80/series/JOAO82975954/4180734012/840826.mp4
@@ -808,6 +811,16 @@ http://treebox.online:80/series/JOAO82975954/4180734012/841117.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations [L] S01 E293" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="Séries | Animes", Boruto: Naruto Next Generations [L] S01 E293
 http://treebox.online:80/series/JOAO82975954/4180734012/841118.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de P.Diddy S01 E01" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aquedadepdiddy.jpg" group-title="Séries | Variados", A Queda de P.Diddy S01 E01
+http://treebox.online:80/series/JOAO82975954/4180734012/1140439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de P.Diddy S01 E02" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aquedadepdiddy.jpg" group-title="Séries | Variados", A Queda de P.Diddy S01 E02
+http://treebox.online:80/series/JOAO82975954/4180734012/1140440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de P.Diddy S01 E03" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aquedadepdiddy.jpg" group-title="Séries | Variados", A Queda de P.Diddy S01 E03
+http://treebox.online:80/series/JOAO82975954/4180734012/1140441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de P.Diddy S01 E04" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aquedadepdiddy.jpg" group-title="Séries | Variados", A Queda de P.Diddy S01 E04
+http://treebox.online:80/series/JOAO82975954/4180734012/1140442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de P.Diddy S01 E05" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/aquedadepdiddy.jpg" group-title="Séries | Variados", A Queda de P.Diddy S01 E05
+http://treebox.online:80/series/JOAO82975954/4180734012/1140443.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E01" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sintonia.jpg" group-title="Séries | Variados", Sintonia S01 E01
 http://treebox.online:80/series/JOAO82975954/4180734012/1142097.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E02" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sintonia.jpg" group-title="Séries | Variados", Sintonia S01 E02
