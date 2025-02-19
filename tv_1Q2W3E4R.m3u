@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A Turma do Zé Colmeia" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/zecolmeia.jpg" group-title="24 Horas | Desenhos", A Turma do Zé Colmeia
-http://treebox.online:80/JOAO82975954/4180734012/934101
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/jackiechan.jpg" group-title="24 Horas | Desenhos", As Aventuras de Jackie Chan
-http://treebox.online:80/JOAO82975954/4180734012/1140163
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tom & Jerry" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tomejerry.jpg" group-title="24 Horas | Desenhos", As Aventuras de Tom & Jerry
-http://treebox.online:80/JOAO82975954/4180734012/934635
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="24 Horas | Desenhos", Boruto: Naruto Next Generations
 http://treebox.online:80/JOAO82975954/4180734012/1139456
-#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/doug.jpg" group-title="24 Horas | Desenhos", Doug
-http://treebox.online:80/JOAO82975954/4180734012/1139954
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballclassico.jpg" group-title="24 Horas | Desenhos", Dragon Ball Clássico
 http://treebox.online:80/JOAO82975954/4180734012/1139158
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 Horas | Desenhos", Dragon Ball Z
@@ -19,12 +11,8 @@ http://treebox.online:80/JOAO82975954/4180734012/1139159
 http://treebox.online:80/JOAO82975954/4180734012/1139166
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballsuper.jpg" group-title="24 Horas | Desenhos", Dragon Ball Super
 http://treebox.online:80/JOAO82975954/4180734012/1139164
-#EXTINF:-1 tvg-id="" tvg-name="DuckTales: Os Caçadores de Aventuras" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ducktales.jpg" group-title="24 Horas | Desenhos", DuckTales: Os Caçadores de Aventuras
-http://treebox.online:80/JOAO82975954/4180734012/1139955
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futurama.jpg" group-title="24 Horas | Desenhos", Futurama
 http://treebox.online:80/JOAO82975954/4180734012/1139163
-#EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/heman.jpg" group-title="24 Horas | Desenhos", He-Man
-http://treebox.online:80/JOAO82975954/4180734012/1140158
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoclassico.jpg" group-title="24 Horas | Desenhos", Naruto Clássico
 http://treebox.online:80/JOAO82975954/4180734012/1139160
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoshippuden.jpg" group-title="24 Horas | Desenhos", Naruto Shippuden
@@ -33,10 +21,6 @@ http://treebox.online:80/JOAO82975954/4180734012/1139453
 http://treebox.online:80/JOAO82975954/4180734012/1139462
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 Horas | Desenhos", Os Simpsons
 http://treebox.online:80/JOAO82975954/4180734012/1139918
-#EXTINF:-1 tvg-id="" tvg-name="Popeye: O Marinheiro" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/popeye.jpg" group-title="24 Horas | Desenhos", Popeye: O Marinheiro
-http://treebox.online:80/JOAO82975954/4180734012/934508
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/superchoque.jpg" group-title="24 Horas | Desenhos", Super Choque
-http://treebox.online:80/JOAO82975954/4180734012/934563
 #EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! Duel Monsters" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/yugiohduelmonsters.jpg" group-title="24 Horas | Desenhos", Yu-Gi-Oh! Duel Monsters
 http://treebox.online:80/JOAO82975954/4180734012/1139470
 
@@ -50,7 +34,7 @@ http://treebox.online:80/JOAO82975954/4180734012/1139526
 http://treebox.online:80/JOAO82975954/4180734012/1139591
 #EXTINF:-1 tvg-id="" tvg-name="Dr. House" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/drhouse.jpg" group-title="24 Horas | Séries", Dr. House
 http://treebox.online:80/JOAO82975954/4180734012/1139635
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 Horas | Séries", Eu a Patroa e as Crianças
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 Horas | Séries", Eu, a Patroa e as Crianças
 http://treebox.online:80/JOAO82975954/4180734012/1139528
 #EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/friends.jpg" group-title="24 Horas | Séries", Friends
 http://treebox.online:80/JOAO82975954/4180734012/1139647
@@ -821,7 +805,7 @@ http://treebox.online:80/series/JOAO82975954/4180734012/841115.mp4
 http://treebox.online:80/series/JOAO82975954/4180734012/841116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations [L] S01 E292" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="Séries | Animes", Boruto: Naruto Next Generations [L] S01 E292
 http://treebox.online:80/series/JOAO82975954/4180734012/841117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations [L] S01 S01 E293" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="Séries | Animes", Boruto: Naruto Next Generations [L] S01 S01 E293
+#EXTINF:-1 tvg-id="" tvg-name="Boruto: Naruto Next Generations [L] S01 E293" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/borutonarutonextgenerations.jpg" group-title="Séries | Animes", Boruto: Naruto Next Generations [L] S01 E293
 http://treebox.online:80/series/JOAO82975954/4180734012/841118.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E01" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sintonia.jpg" group-title="Séries | Variados", Sintonia S01 E01
