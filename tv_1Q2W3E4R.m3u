@@ -163,7 +163,7 @@ http://treebox.online:80/JOAO82975954/4180734012/188450
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinetouch.png" group-title="Filmes | Telecine", Telecine Touch
 http://treebox.online:80/JOAO82975954/4180734012/188456
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="Filmes e Séries | Variados", A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="Filmes, e Séries | Variados", A&E
 http://treebox.online:80/JOAO82975954/4180734012/188462
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/amc.png" group-title="Filmes e Séries | Variados", AMC
 http://treebox.online:80/JOAO82975954/4180734012/188468
@@ -201,33 +201,33 @@ http://treebox.online:80/JOAO82975954/4180734012/200362
 #EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/band.png" group-title="TV Aberta | Variados", 13.1 Band SP
 http://treebox.online:80/JOAO82975954/4180734012/188742
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="TV a Cabo | Variados", Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="TV Por Assinatura | Variados", Animal Planet
 http://treebox.online:80/JOAO82975954/4180734012/188643
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bandsports.png" group-title="TV a Cabo | Variados", Band Sports
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bandsports.png" group-title="TV Por Assinatura | Variados", Band Sports
 http://treebox.online:80/JOAO82975954/4180734012/211781
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV a Cabo | Variados", Canal Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV Por Assinatura | Variados", Canal Brasil
 http://treebox.online:80/JOAO82975954/4180734012/188859
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cnnbrasil.png" group-title="TV a Cabo | Variados", CNN Brasil
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cnnbrasil.png" group-title="TV Por Assinatura | Variados", CNN Brasil
 http://treebox.online:80/JOAO82975954/4180734012/189215
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverychannel.png" group-title="TV a Cabo | Variados", Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverychannel.png" group-title="TV Por Assinatura | Variados", Discovery Channel
 http://treebox.online:80/JOAO82975954/4180734012/188649
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryhah.png" group-title="TV a Cabo | Variados", Discovery Home and Health 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryhah.png" group-title="TV Por Assinatura | Variados", Discovery Home and Health 
 http://treebox.online:80/JOAO82975954/4180734012/188655
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryscience.png" group-title="TV a Cabo | Variados", Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryscience.png" group-title="TV Por Assinatura | Variados", Discovery Science
 http://treebox.online:80/JOAO82975954/4180734012/188661
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverytheater.png" group-title="TV a Cabo | Variados", Discovery Theater
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverytheater.png" group-title="TV Por Assinatura | Variados", Discovery Theater
 http://treebox.online:80/JOAO82975954/4180734012/188667
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryturbo.png" group-title="TV a Cabo | Variados", Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryturbo.png" group-title="TV Por Assinatura | Variados", Discovery Turbo
 http://treebox.online:80/JOAO82975954/4180734012/295657
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryworld.png" group-title="TV a Cabo | Variados", Discovery World
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryworld.png" group-title="TV Por Assinatura | Variados", Discovery World
 http://treebox.online:80/JOAO82975954/4180734012/188681
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/foodnetwork.png" group-title="TV a Cabo | Variados", Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/foodnetwork.png" group-title="TV Por Assinatura | Variados", Food Network
 http://treebox.online:80/JOAO82975954/4180734012/189077
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="TV a Cabo | Variados", Futura
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="TV Por Assinatura | Variados", Futura
 http://treebox.online:80/JOAO82975954/4180734012/188865
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/musicboxbrazil.png" group-title="TV a Cabo | Variados", Music Box Brazil
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/musicboxbrazil.png" group-title="TV Por Assinatura | Variados", Music Box Brazil
 http://treebox.online:80/JOAO82975954/4180734012/189102
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nationalgeographic.png" group-title="TV a Cabo | Variados", National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nationalgeographic.png" group-title="TV Por Assinatura | Variados", National Geographic
 http://treebox.online:80/JOAO82975954/4180734012/188709
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV a Cabo | Variados", TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV Por Assinatura | Variados", TLC
 http://treebox.online:80/JOAO82975954/4180734012/188721
