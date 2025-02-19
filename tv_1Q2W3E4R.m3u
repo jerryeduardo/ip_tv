@@ -190,15 +190,15 @@ http://treebox.online:80/JOAO82975954/4180734012/188880
 http://treebox.online:80/JOAO82975954/4180734012/188727
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/globo.png" group-title="TV Aberta | Variados", Globo SP
 http://treebox.online:80/JOAO82975954/4180734012/188302
-#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/record.png" group-title="TV Aberta | Variados", 7.1 Record
+#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/record.png" group-title="TV Aberta | Variados", Record
 http://treebox.online:80/JOAO82975954/4180734012/188790
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/redetv.png" group-title="TV Aberta | Variados", 9.1 Rede TV
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/redetv.png" group-title="TV Aberta | Variados", Rede TV
 http://treebox.online:80/JOAO82975954/4180734012/188871
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/gazeta.png" group-title="TV Aberta | Variados", 11.1 TV Gazeta SP
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/gazeta.png" group-title="TV Aberta | Variados", TV Gazeta SP
 http://treebox.online:80/JOAO82975954/4180734012/188876
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil " tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/redebrasil.png" group-title="TV Aberta | Variados", 12.1 Rede Brasil 
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil " tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/redebrasil.png" group-title="TV Aberta | Variados", Rede Brasil 
 http://treebox.online:80/JOAO82975954/4180734012/200362
-#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/band.png" group-title="TV Aberta | Variados", 13.1 Band SP
+#EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/band.png" group-title="TV Aberta | Variados", Band SP
 http://treebox.online:80/JOAO82975954/4180734012/188742
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="TV Por Assinatura | Variados", Animal Planet
@@ -207,6 +207,8 @@ http://treebox.online:80/JOAO82975954/4180734012/188643
 http://treebox.online:80/JOAO82975954/4180734012/211781
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV Por Assinatura | Variados", Canal Brasil
 http://treebox.online:80/JOAO82975954/4180734012/188859
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cnbcbrasil.png" group-title="TV Por Assinatura | Variados", CNBC Brasil
+http://treebox.online:80/JOAO82975954/4180734012/953327
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cnnbrasil.png" group-title="TV Por Assinatura | Variados", CNN Brasil
 http://treebox.online:80/JOAO82975954/4180734012/189215
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverychannel.png" group-title="TV Por Assinatura | Variados", Discovery Channel
