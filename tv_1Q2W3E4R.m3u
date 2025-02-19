@@ -63,7 +63,7 @@ http://treebox.online:80/JOAO82975954/4180734012/1139527
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ummaluconopedaco.jpg" group-title="24 Horas | Séries", Um Maluco no Pedaço
 http://treebox.online:80/JOAO82975954/4180734012/1139681
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN
 http://treebox.online:80/JOAO82975954/4180734012/211805
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 2
 http://treebox.online:80/JOAO82975954/4180734012/211793
@@ -76,7 +76,7 @@ http://treebox.online:80/JOAO82975954/4180734012/211823
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espnextra.png" group-title="Esportes | ESPN", ESPN Extra
 http://treebox.online:80/JOAO82975954/4180734012/211811
 
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 Clubes" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiereclubes.png" group-title="Esportes | Premiere", Premiere 1 Clubes
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiereclubes.png" group-title="Esportes | Premiere", Premiere Clubes
 http://treebox.online:80/JOAO82975954/4180734012/188602
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 2
 http://treebox.online:80/JOAO82975954/4180734012/188608
@@ -91,7 +91,7 @@ http://treebox.online:80/JOAO82975954/4180734012/188632
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 7
 http://treebox.online:80/JOAO82975954/4180734012/188637
 
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV 1
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV
 http://treebox.online:80/JOAO82975954/4180734012/211829
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV 2
 http://treebox.online:80/JOAO82975954/4180734012/211835
@@ -163,7 +163,7 @@ http://treebox.online:80/JOAO82975954/4180734012/188450
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinetouch.png" group-title="Filmes | Telecine", Telecine Touch
 http://treebox.online:80/JOAO82975954/4180734012/188456
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="Filmes & Séries | Variados", A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="Filmes e Séries | Variados", A&E
 http://treebox.online:80/JOAO82975954/4180734012/188462
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/amc.png" group-title="Filmes e Séries | Variados", AMC
 http://treebox.online:80/JOAO82975954/4180734012/188468
@@ -184,11 +184,11 @@ http://treebox.online:80/JOAO82975954/4180734012/188582
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/warnerchannel.png" group-title="Filmes e Séries | Variados", Warner Channel
 http://treebox.online:80/JOAO82975954/4180734012/188588
 
-#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="TV Aberta | Variados", 2.1 Cultura
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="TV Aberta | Variados", Cultura
 http://treebox.online:80/JOAO82975954/4180734012/188880
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sbt.png" group-title="TV Aberta | Variados", 4.1 SBT SP
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sbt.png" group-title="TV Aberta | Variados", SBT SP
 http://treebox.online:80/JOAO82975954/4180734012/188727
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/globo.png" group-title="TV Aberta | Variados", 5.1 Globo SP
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/globo.png" group-title="TV Aberta | Variados", Globo SP
 http://treebox.online:80/JOAO82975954/4180734012/188302
 #EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/record.png" group-title="TV Aberta | Variados", 7.1 Record
 http://treebox.online:80/JOAO82975954/4180734012/188790
