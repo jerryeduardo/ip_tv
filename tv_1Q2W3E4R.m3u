@@ -51,7 +51,7 @@ http://treebox.online:80/JOAO82975954/4180734012/211799
 http://treebox.online:80/JOAO82975954/4180734012/211817
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 5
 http://treebox.online:80/JOAO82975954/4180734012/211823
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espnextra.png" group-title="Esportes | ESPN", ESPN Extra
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 6
 http://treebox.online:80/JOAO82975954/4180734012/211811
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiereclubes.png" group-title="Esportes | Premiere", Premiere Clubes
@@ -157,6 +157,8 @@ http://treebox.online:80/JOAO82975954/4180734012/188456
 http://treebox.online:80/JOAO82975954/4180734012/188462
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/amc.png" group-title="Filmes e Séries | Variados", AMC
 http://treebox.online:80/JOAO82975954/4180734012/188468
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/fx.png" group-title="Filmes e Séries | Variados", FX
+http://treebox.online:80/JOAO82975954/4180734012/188522
 #EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/megapix.png" group-title="Filmes e Séries | Variados", Megapix
 http://treebox.online:80/JOAO82975954/4180734012/188534
 #EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sony.png" group-title="Filmes e Séries | Variados", Sony
@@ -165,6 +167,8 @@ http://treebox.online:80/JOAO82975954/4180734012/188480
 http://treebox.online:80/JOAO82975954/4180734012/188546
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/starchannel.png" group-title="Filmes e Séries | Variados", Star Channel
 http://treebox.online:80/JOAO82975954/4180734012/188498
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/studiouniversal.png" group-title="Filmes e Séries | Variados", Studio Universal
+http://treebox.online:80/JOAO82975954/4180734012/188552
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tnt.png" group-title="Filmes e Séries | Variados", TNT
 http://treebox.online:80/JOAO82975954/4180734012/188570
 #EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tntseries.png" group-title="Filmes e Séries | Variados", TNT Series
