@@ -199,6 +199,8 @@ http://treebox.online:80/JOAO82975954/4180734012/188742
 http://treebox.online:80/JOAO82975954/4180734012/188643
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bandsports.png" group-title="TV Por Assinatura | Variados", Band Sports
 http://treebox.online:80/JOAO82975954/4180734012/211781
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bis.png" group-title="TV Por Assinatura | Variados", Bis
+http://treebox.online:80/JOAO82975954/4180734012/189057
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV Por Assinatura | Variados", Canal Brasil
 http://treebox.online:80/JOAO82975954/4180734012/188859
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cnbcbrasil.png" group-title="TV Por Assinatura | Variados", CNBC Brasil
@@ -207,7 +209,7 @@ http://treebox.online:80/JOAO82975954/4180734012/953327
 http://treebox.online:80/JOAO82975954/4180734012/189215
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverychannel.png" group-title="TV Por Assinatura | Variados", Discovery Channel
 http://treebox.online:80/JOAO82975954/4180734012/188649
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health " tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryhah.png" group-title="TV Por Assinatura | Variados", Discovery Home and Health 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryhah.png" group-title="TV Por Assinatura | Variados", Discovery Home and Health 
 http://treebox.online:80/JOAO82975954/4180734012/188655
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryscience.png" group-title="TV Por Assinatura | Variados", Discovery Science
 http://treebox.online:80/JOAO82975954/4180734012/188661
