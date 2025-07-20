@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballclassico.jpg" group-title="24 Horas | Desenhos", Dragon Ball Clássico
-http://applazer.online:80/JOAO82975954/4180734012/1151549
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 Horas | Desenhos", Dragon Ball Z
 http://applazer.online:80/JOAO82975954/4180734012/1151551
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballsuper.jpg" group-title="24 Horas | Desenhos", Dragon Ball Super
-http://applazer.online:80/JOAO82975954/4180734012/1151550
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Clássico" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoclassico.jpg" group-title="24 Horas | Desenhos", Naruto Clássico
-http://applazer.online:80/JOAO82975954/4180734012/1151569
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoshippuden.jpg" group-title="24 Horas | Desenhos", Naruto Shippuden
 http://applazer.online:80/JOAO82975954/4180734012/1151570
 #EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/oscavaleirosdozodiaco.jpg" group-title="24 Horas | Desenhos", Os Cavaleiros do Zodíaco
