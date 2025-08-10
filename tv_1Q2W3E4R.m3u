@@ -90,6 +90,8 @@ http://applazer.online:80/JOAO82975954/4180734012/345481
 http://applazer.online:80/JOAO82975954/4180734012/345482
 #EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol 4" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nossofutebol.png" group-title="Esportes | Streaming", Nosso Futebol 4
 http://applazer.online:80/JOAO82975954/4180734012/369956
+#EXTINF:-1 tvg-id="" tvg-name="N Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nsports.png" group-title=="TV Aberta | Variados", N Sports
+http://applazer.online:80/JOAO82975954/4180734012/1231753
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/paramount+conmebol.png" group-title="Esportes | Streaming", Paramount+ CONMEBOL 1
 http://applazer.online:80/JOAO82975954/4180734012/298817
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ CONMEBOL 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/paramount+conmebol.png" group-title="Esportes | Streaming", Paramount+ CONMEBOL 2
@@ -174,6 +176,10 @@ http://applazer.online:80/JOAO82975954/4180734012/188876
 http://applazer.online:80/JOAO82975954/4180734012/200362
 #EXTINF:-1 tvg-id="" tvg-name="Band SP" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/band.png" group-title="TV Aberta | Variados", Band SP
 http://applazer.online:80/JOAO82975954/4180734012/188742
+#EXTINF:-1 tvg-id="" tvg-name="TV Universal" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tvuniversal.png" group-title="TV Aberta | Variados", TV Universal
+http://applazer.online:80/JOAO82975954/4180734012/1144957
+#EXTINF:-1 tvg-id="" tvg-name="X Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/xsports.jpg" group-title=="TV Aberta | Variados", X Sports
+http://applazer.online:80/JOAO82975954/4180734012/1232642
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="TV Por Assinatura | Variados", Animal Planet
 http://applazer.online:80/JOAO82975954/4180734012/188643
