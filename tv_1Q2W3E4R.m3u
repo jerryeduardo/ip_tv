@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/dragonballz.jpg" group-title="24 Horas | Desenhos", Dragon Ball Z
-http://applazer.online:80/JOAO82975954/4180734012/1151551
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/narutoshippuden.jpg" group-title="24 Horas | Desenhos", Naruto Shippuden
-http://applazer.online:80/JOAO82975954/4180734012/1151570
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/oscavaleirosdozodiaco.jpg" group-title="24 Horas | Desenhos", Os Cavaleiros do Zodíaco
-http://applazer.online:80/JOAO82975954/4180734012/1151575
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ossimpsons.jpg" group-title="24 Horas | Desenhos", Os Simpsons
-http://applazer.online:80/JOAO82975954/4180734012/1151577
-
-#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chaves.jpg" group-title="24 Horas | Séries", Chaves
-http://applazer.online:80/JOAO82975954/4180734012/1151616
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/chapolin.jpg" group-title="24 Horas | Séries", Chapolin Colorado
-http://applazer.online:80/JOAO82975954/4180734012/1151615
-#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/doishomensemeio.jpg" group-title="24 Horas | Séries", Dois Homens e Meio
-http://applazer.online:80/JOAO82975954/4180734012/1151617
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/euapatroaeascriancas.jpg" group-title="24 Horas | Séries", Eu a Patroa e as Crianças
-http://applazer.online:80/JOAO82975954/4180734012/1151618
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/todomundoodeiaochris.jpg" group-title="24 Horas | Séries", Todo Mundo Odeia o Chris
-http://applazer.online:80/JOAO82975954/4180734012/1151621
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ummaluconopedaco.jpg" group-title="24 Horas | Séries", Um Maluco no Pedaço
-http://applazer.online:80/JOAO82975954/4180734012/1151622
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN
 http://applazer.online:80/JOAO82975954/4180734012/211805
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 2
