@@ -81,18 +81,13 @@ http://vyvo.site:80/JOAO82975954/4180734012/298814
 #EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Streaming", Prime Video 1
 http://vyvo.site:80/JOAO82975954/4180734012/299403
 #EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Streaming", Prime Video 2
+http://vyvo.site:80/JOAO82975954/4180734012/338638
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Streaming", Prime Video 1
 http://vyvo.site:80/JOAO82975954/4180734012/299402
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/prime_video.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 01
-http://rggov.site:80/JOAO82975954/4180734012/299403.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/prime_video.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 02
-http://rggov.site:80/JOAO82975954/4180734012/338638.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/prime_video.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 03
-http://rggov.site:80/JOAO82975954/4180734012/299402.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 04" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/prime_video.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 04
-http://rggov.site:80/JOAO82975954/4180734012/899513.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 05" tvg-logo="http://dlstvonline.com/images/EXCLUSIVOS/prime_video.png" group-title="CANAIS | PRIME VIDEO",PRIME VIDEO 05
-http://rggov.site:80/JOAO82975954/4180734012/1142244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Streaming", Prime Video 2
+http://vyvo.site:80/JOAO82975954/4180734012/899513
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 5" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Streaming", Prime Video 1
+http://vyvo.site:80/JOAO82975954/4180734012/1142244
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbo.png" group-title="Filmes | HBO", HBO
 http://vyvo.site:80/JOAO82975954/4180734012/211852
