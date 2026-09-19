@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Português",LANGUAGE="pt",DEFAULT=YES,AUTOSELECT=YES,URI="https://tvbrasil-stream.ebc.com.br/EBC_HD-mp4a_128000=20000.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2428000,AUDIO="audio"
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8

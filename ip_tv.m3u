@@ -1,0 +1,218 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/band.png" group-title="Canais | Temporarios", Band
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEwMDk0MTVlLWMwODEtNGE2Mi04MDIwLWIxMDY4ZDQ2Zjg2OSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4OTc1OTM3MywibmJmIjoxNzg5NzU5MzczLCJleHAiOjE3OTIzNTEzNzMsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6ImEwMDk0MTVlLWMwODEtNGE2Mi04MDIwLWIxMDY4ZDQ2Zjg2OSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-lGSaShUSBeSw5Tcy6-lOFyUt-BNIAaeLQkJAmYQf-0&uid=a009415e-c081-4a62-8020-b1068d46f869
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="Canais | Temporarios", Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Canais | Temporarios", ESPN
+-
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/redebrasil.png" group-title="Canais | Temporarios", Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Canais | Temporarios", SporTV
+http://hynhmcdyktjjsptdobylba.cdn.api64.de/play/hls/eyJpdiI6IlAyNWtCb1BEdVJLMlh6ZzJLbDdZMnc9PSIsInZhbHVlIjoiekdEY0xtSmY5My82MkZsRXMraTI1d1VnTlAvODVsc1JGM1JValVlMTFYdmtlaGh2RENocXlCemIrSHcrTkNTdiIsIm1hYyI6ImU3NzEyMDZkMWRkZDYxMDIwZDlhMGRjYjAwYTMwOGNkODJjNjA1MmY4YWU0MzE3MTc2NjFhYjdlMzFlOThlMDkiLCJ0YWciOiIifQ==/b5532753-3c7d-4246-92f8-0b99081fd9f6.m3u8?sjwt=eyJpdiI6IkIwT1ZCREViUlNLYUZncGsveVpOTXc9PSIsInZhbHVlIjoiMDVER3hkMjFTTVJBVjdlSDlnaXR5RWRPTGcybkJxSXlQdFM2d1Q1aHg1OVpLWiticG1kMWFEVlNBWERFaXZ2WnpiKzJWWXIxUjV6d3ZNQzlOVEhxR3lXQktHNktGb2YwVCtqNGtFYTRWbDZLa1hhQnV3QWRRemVHL2dpZ2x5RXVXaGtMUHdUYnNrN3ZSdXlCdE1TYWFDb1JHaDRPTEpkWWc2QWVjdkxHOFJpODJ1aU5qMXRFS2NyNkJHN3FhSGEvbnQwMHFCYjJveERScGMvRVpSd0IraDJMRm1TcWc4NFVKb0dtZ29YcnZLQT0iLCJtYWMiOiJmOWY4MDk1MjZjMGRkZDM1MTQ4NzQ0MzRmZDU5MjhjMmIzNmUxYzY5MTE4MzFmYjAzZDk5MWJlN2Y4YzhmOTk0IiwidGFnIjoiIn0=
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tvbrasil.png" group-title="Canais | Temporarios", TV Brasil
+https://jerryeduardo.github.io/ip_tv/tv_brasil.m3u8
+
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Canal_Futura_2022.svg" tvg-id="CanalFutura.br" tvg-chno="4" tvg-country="BR" group-title="Brazil",Futura
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-id="RecordNews.br" tvg-chno="7" tvg-country="BR" group-title="Brazil",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD",Jovem Pan NEWS (720p)
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD",Euronews Portuguese (720p)
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+#EXTINF:-1 tvg-id="",CBS News (720p)
+https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
+#EXTINF:-1 tvg-id="BMCNews.br@SD",BM&C News (720p)
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD",Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="NSports.br@SD",N Sports (1080p)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 2
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 3
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 [HD] (A)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 4 [HD] (A)
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (B)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 4 (B)
+https://db7068a18fbc5a91dac038c5816d11ce.s21-cloudfront-net.lat/nossoplayer/5a9b892890c80abd7b4b47e1dcc4c3bd/file.txt
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 5
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN 6
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2107.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiereclubes.png" group-title="Esportes | Premiere", Premiere Clubes
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 2
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 3
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 4
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 5
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/premiere.png" group-title="Esportes | Premiere", Premiere 6
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2197.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV 2
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Esportes | SporTV", SporTV 3
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2220.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CazéTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Esportes | Streaming", CazéTV
+http://ngzcdn.mantoxp.click/live/liveofcbr22/liveofcbr21/613923.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODgxMzQzOTksImlhdCI6MTc4ODA0ODAwMCwibmJmIjoxNzg4MDQ4MDAwLCJ1c2VyIjoiMjg3OTQ1ODExIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjUxNjU4In0.-dWBOuu11vP1OBzWvtsu4kF-lkOwZhFzXGqlD112VSA
+#EXTINF:-1 tvg-id="" tvg-name="GETV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Esportes | Streaming", GETV
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney + 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/disney+.png" group-title="Esportes | Streaming", Disney + 1
+http://nizcdn.mantoxp.click/live/liveofcbr22/liveofcbr22/232241.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODgxMzQzOTksImlhdCI6MTc4ODA0ODAwMCwibmJmIjoxNzg4MDQ4MDAwLCJ1c2VyIjoiMjg3OTQ1ODExIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjM5Nzc0In0.ZaTGzhMw1trG_bapkryzaEFVQWP9yuiDWZZqLh2jImk
+#EXTINF:-1 tvg-id="" tvg-name="Disney + 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/disney+.png" group-title="Esportes | Streaming", Disney + 2
+http://nczcdn.mantoxp.click/live/liveofcbr22/liveofcbr22/232243.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODgxMzQzOTksImlhdCI6MTc4ODA0ODAwMCwibmJmIjoxNzg4MDQ4MDAwLCJ1c2VyIjoiMjg3OTQ1ODExIiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1MS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQ3MzQ2In0.QeQqIXHUKrnj8QGnTEfCcpSA_Kf_MI-TEOUhCZrFOuo
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/primevideo.png" group-title="Esportes | Streaming", Prime Video 1
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/905452.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbo.png" group-title="Filmes | HBO", HBO
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbo2.png" group-title="Filmes | HBO", HBO 2
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbofamily.png" group-title="Filmes | HBO", HBO Family
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbomundi.png" group-title="Filmes | HBO", HBO Mundi
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hboplus.png" group-title="Filmes | HBO", HBO Plus
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbopop.png" group-title="Filmes | HBO", HBO Pop
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hbosignature.png" group-title="Filmes | HBO", HBO Signature
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/hboxtreme.png" group-title="Filmes | HBO", HBO Xtreme
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2160.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecineaction.png" group-title="Filmes | Telecine", Telecine Action [HD]
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinecult.png" group-title="Filmes | Telecine", Telecine Cult
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinefun.png" group-title="Filmes | Telecine", Telecine Fun [HD]
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinepipoca.png" group-title="Filmes | Telecine", Telecine Pipoca
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinepremium.png" group-title="Filmes | Telecine", Telecine Premium [HD]
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/telecinetouch.png" group-title="Filmes | Telecine", Telecine Touch
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2237.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/ae.png" group-title="Filmes e Séries | Variados", A&E
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/amc.png" group-title="Filmes e Séries | Variados", AMC
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="arte1" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Filmes e Séries | Variados", arte1
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Filmes e Séries | Variados", AXN
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Filmes e Séries | Variados", Cinemax
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Filmes e Séries | Variados", Lifetime
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/megapix.png" group-title="Filmes e Séries | Variados", Megapix [HD]
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sony.png" group-title="Filmes e Séries | Variados", Sony
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/space.png" group-title="Filmes e Séries | Variados", Space
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/studiouniversal.png" group-title="Filmes e Séries | Variados", Studio Universal
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tnt.png" group-title="Filmes e Séries | Variados", TNT
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tntseries.png" group-title="Filmes e Séries | Variados", TNT Series
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/universal.png" group-title="Filmes e Séries | Variados", Universal TV [HD]
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/warnerchannel.png" group-title="Filmes e Séries | Variados", Warner Channel
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2265.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="TV Aberta | Variados", Cultura
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sbt.png" group-title="TV Aberta | Variados", SBT
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/globo.png" group-title="TV Aberta | Variados", Globo
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/record.png" group-title="TV Aberta | Variados", Record
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Aberta | Variados", Record News
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/redetv.png" group-title="TV Aberta | Variados", Rede TV
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/band.png" group-title="TV Aberta | Variados", Band
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xsports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/xsports.png" group-title="TV Aberta | Variados", Xsports
+http://sp-66906890.cachezonebr.sbs/live/liveofcbr22/liveofcbr20/1270006.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/animalplanet.png" group-title="TV Por Assinatura | Variados", Animal Planet
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bandsports.png" group-title="TV Por Assinatura | Variados", Band Sports
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Band News
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2058.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/bis.png" group-title="TV Por Assinatura | Variados", Bis
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/canalbrasil.png" group-title="TV Por Assinatura | Variados", Canal Brasil
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2067.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Canal Off" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Canal Off
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/combate.png" group-title="TV Por Assinatura | Variados", Combate
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Curta!
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryhah.png" group-title="TV Por Assinatura | Variados", Discovery Home and Health 
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryscience.png" group-title="TV Por Assinatura | Variados", Discovery Science [HD]
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoverytheater.png" group-title="TV Por Assinatura | Variados", Discovery Theater
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryturbo.png" group-title="TV Por Assinatura | Variados", Discovery Turbo
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/discoveryworld.png" group-title="TV Por Assinatura | Variados", Discovery World
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Fish TV
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/foodnetwork.png" group-title="TV Por Assinatura | Variados", Food Network
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="TV Por Assinatura | Variados", Futura
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Globo News
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Globoplay Novelas
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas [HD]" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Globoplay Novelas [HD]
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", GNT
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", HGTV
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", History
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Investigação Discovery
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil (A)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/musicboxbrazil.png" group-title="TV Por Assinatura | Variados", Music Box Brazil (A)
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil [HD] (B)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/musicboxbrazil.png" group-title="TV Por Assinatura | Variados", Music Box Brazil [HD] (B)
+http://ash-232375945.cachezonebr.lat/live/liveofcbr22/liveofcbr21/1852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Prime Box Brazil
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/tlc.png" group-title="TV Por Assinatura | Variados", TLC
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="TV Por Assinatura | Variados", Woohoo
+http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2267.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A Rede Social (2010)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.jpg" group-title="Filmes | Variados", A Rede Social (2010)
+-
+#EXTINF:-1 tvg-id="" tvg-name="Filhos do Paraíso (1997)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.jpg" group-title="Filmes | Variados", Filhos do Paraíso (1997)
+-
