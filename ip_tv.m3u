@@ -10,7 +10,9 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News Português (A)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (A)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News Português (B)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (B)
-https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8|User-Agent=Mozilla/5.0
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="Canais | Verificados", Futura
+http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", MLB Channel
@@ -34,16 +36,10 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="BM&C News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", BM&C News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Canais | Temporarios", ESPN
--
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", FIFA+
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="Canais | Temporarios", Futura
-http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", Jovem Pan News
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", NBA Channel
