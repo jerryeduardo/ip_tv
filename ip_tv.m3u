@@ -7,9 +7,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="Canais | Verificados", Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euro News Português (A)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (A)
-https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euro News Português (B)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (B)
+#EXTINF:-1 tvg-id="" tvg-name="Euro News Português" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="Canais | Verificados", Futura
 http://168.197.104.22/FUTURA/index.m3u8
