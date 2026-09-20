@@ -10,7 +10,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News Português (A)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (A)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News Português (B)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (B)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="N Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nsports.png" group-title="Canais | Verificados", N Sports
@@ -37,19 +37,19 @@ https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="Canais | Temporarios", Futura
 http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", Jovem Pan News
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", MLB Channel
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d3528cd6-b4ab-11f1-ad62-a4a693893206&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10b173fb-19ae-4e04-9fde-636f256ff3c4&userId=&serverSideAds=true
+https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", NBA Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6792c30abc03978b9b8bb832/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NFL Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6a68dc0a75fd5e3828f10b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-6a68dc0a75fd5e3828f10b10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Canais | Temporarios", SporTV
 http://hynhmcdyktjjsptdobylba.cdn.api64.de/play/hls/eyJpdiI6IlAyNWtCb1BEdVJLMlh6ZzJLbDdZMnc9PSIsInZhbHVlIjoiekdEY0xtSmY5My82MkZsRXMraTI1d1VnTlAvODVsc1JGM1JValVlMTFYdmtlaGh2RENocXlCemIrSHcrTkNTdiIsIm1hYyI6ImU3NzEyMDZkMWRkZDYxMDIwZDlhMGRjYjAwYTMwOGNkODJjNjA1MmY4YWU0MzE3MTc2NjFhYjdlMzFlOThlMDkiLCJ0YWciOiIifQ==/b5532753-3c7d-4246-92f8-0b99081fd9f6.m3u8?sjwt=eyJpdiI6IkIwT1ZCREViUlNLYUZncGsveVpOTXc9PSIsInZhbHVlIjoiMDVER3hkMjFTTVJBVjdlSDlnaXR5RWRPTGcybkJxSXlQdFM2d1Q1aHg1OVpLWiticG1kMWFEVlNBWERFaXZ2WnpiKzJWWXIxUjV6d3ZNQzlOVEhxR3lXQktHNktGb2YwVCtqNGtFYTRWbDZLa1hhQnV3QWRRemVHL2dpZ2x5RXVXaGtMUHdUYnNrN3ZSdXlCdE1TYWFDb1JHaDRPTEpkWWc2QWVjdkxHOFJpODJ1aU5qMXRFS2NyNkJHN3FhSGEvbnQwMHFCYjJveERScGMvRVpSd0IraDJMRm1TcWc4NFVKb0dtZ29YcnZLQT0iLCJtYWMiOiJmOWY4MDk1MjZjMGRkZDM1MTQ4NzQ0MzRmZDU5MjhjMmIzNmUxYzY5MTE4MzFmYjAzZDk5MWJlN2Y4YzhmOTk0IiwidGFnIjoiIn0=
 #EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", UEFA Champions League
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", UFC
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/69a20556814d27f4ae630a92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN
 http://sp-66906890.cachezonebr.lat/live/liveofcbr22/liveofcbr21/2105.m3u8
