@@ -29,7 +29,7 @@ https://jerryeduardo.github.io/ip_tv/tv_brasil.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BM&C News" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", BM&C News
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Canais | Temporarios", ESPN
 -
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Temporarios", FIFA+
