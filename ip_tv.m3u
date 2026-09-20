@@ -10,7 +10,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News Português (A)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (A)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News Português (B)" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Euro News Português (B)
-619e6614c9d9650007a2b171
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="N Sports" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/nsports.png" group-title="Canais | Verificados", N Sports
