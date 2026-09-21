@@ -7,8 +7,6 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/cultura.png" group-title="Canais | Verificados", Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="Canais | Verificados", Futura
-http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Channel" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", MLB Channel
@@ -30,7 +28,9 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/modelo.png" group-title="Canais | Verificados", UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Canais | Temporarios", SporTV
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/futura.png" group-title="Canais | Temporários", Futura
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/sportv.png" group-title="Canais | Temporários", SporTV
 http://hynhmcdyktjjsptdobylba.cdn.api64.de/play/hls/eyJpdiI6IlAyNWtCb1BEdVJLMlh6ZzJLbDdZMnc9PSIsInZhbHVlIjoiekdEY0xtSmY5My82MkZsRXMraTI1d1VnTlAvODVsc1JGM1JValVlMTFYdmtlaGh2RENocXlCemIrSHcrTkNTdiIsIm1hYyI6ImU3NzEyMDZkMWRkZDYxMDIwZDlhMGRjYjAwYTMwOGNkODJjNjA1MmY4YWU0MzE3MTc2NjFhYjdlMzFlOThlMDkiLCJ0YWciOiIifQ==/b5532753-3c7d-4246-92f8-0b99081fd9f6.m3u8?sjwt=eyJpdiI6IkIwT1ZCREViUlNLYUZncGsveVpOTXc9PSIsInZhbHVlIjoiMDVER3hkMjFTTVJBVjdlSDlnaXR5RWRPTGcybkJxSXlQdFM2d1Q1aHg1OVpLWiticG1kMWFEVlNBWERFaXZ2WnpiKzJWWXIxUjV6d3ZNQzlOVEhxR3lXQktHNktGb2YwVCtqNGtFYTRWbDZLa1hhQnV3QWRRemVHL2dpZ2x5RXVXaGtMUHdUYnNrN3ZSdXlCdE1TYWFDb1JHaDRPTEpkWWc2QWVjdkxHOFJpODJ1aU5qMXRFS2NyNkJHN3FhSGEvbnQwMHFCYjJveERScGMvRVpSd0IraDJMRm1TcWc4NFVKb0dtZ29YcnZLQT0iLCJtYWMiOiJmOWY4MDk1MjZjMGRkZDM1MTQ4NzQ0MzRmZDU5MjhjMmIzNmUxYzY5MTE4MzFmYjAzZDk5MWJlN2Y4YzhmOTk0IiwidGFnIjoiIn0=
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://jerryeduardo.github.io/ip_tv/imagens/espn.png" group-title="Esportes | ESPN", ESPN
